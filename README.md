@@ -41,7 +41,7 @@ SayWhatSnap (Czech: *TlumočMi*) is a Kotlin Android app designed to help travel
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/saywhatsnap.git
+   git clone https://github.com/david-dostal/saywhatsnap.git
    ```
 2. Open in Android Studio
 3. Run on an emulator or device with camera and Maps API enabled

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">TlumočMi</string>
+    <string name="title_map_screen">Mapa</string>
+    <string name="list">Seznam</string>
+    <string name="translate">Přeložit</string>
+    <string name="map">Mapa</string>
+    <string name="no_translations_text">Dosud nebyly vytvořeny žádné překlady</string>
+    <string name="settings_description">Naviguj na obrazovku nastavení</string>
+    <string name="label_category">Label kategorie</string>
+    <string name="hint_extracted">Rozpoznaný text</string>
+    <string name="hint_translated_language">Přeložit do jazyka</string>
+    <string name="hint_translated_string">Přeložený text</string>
+    <string name="label_language">Jazyk</string>
+    <string name="label_translate_to">Přeložit do jazyka</string>
+    <string name="required_for_the_saywhatsnap">Vyžadované pro TlumočMi\n</string>
+    <string name="android_permission">Android povolení</string>
+    <string name="saywhatsnap_requires_below_permission">TlumočMi vyžaduje tyto povolení</string>
+    <string name="dismiss">Potvrdit</string>
+    <string name="grant_permissions">Udělení povolení</string>
+    <string name="permissions_required_by_the_saywhatsnap">Povolení vyžadované aplikací TlumočMi</string>
+    <string name="the_saywhatsnap_requires_the">TlumočMi vyžaduje</string>
+    <string name="str_continue">Pokračovat</string>
+    <string name="location_description">Popis lokace</string>
+    <string name="coords">Poloha</string>
+    <string name="get_coords">Získat aktuální polohu</string>
+    <string name="permissions_needed">TlumočMi vyžaduje povolení pro zjištění lokace.</string>
+    <string name="accept">Přijmout</string>
+    <string name="text_recognition_title">Rozpoznávání textu</string>
+    <string name="camera_permission_explanation">Aplikace TlumočMi vyžaduje povolení pro použití kamery kvůli rozpoznávání textu.</string>
+    <string name="request_permission">Vyžádat povolení</string>
+    <string name="hint_original_language">Původní jazyk (volitelné)</string>
+    <string name="hint_name">Název</string>
+    <string name="hint_category">Kategorie</string>
+    <string name="hint_description">Popis</string>
+    <string name="hint_original_string">Původní text</string>
+    <string name="hint_visible">Zobrazit</string>
+    <string name="delete_translation_description">Smazat překlad</string>
+    <string name="unselect_image_button">Smazat fotografii</string>
+    <string name="select_image_button">Vybrat fotografii</string>
+    <string name="text_extraction_button">Extrahovat</string>
+    <string name="back">Zpátky</string>
+    <string name="camera_permission_animation">Camera permission animation</string>
+    <string name="parameters_title">Parametry</string>
+    <string name="discard">Zahodit</string>
+    <string name="save_to_button">Uložit do</string>
+    <string name="image_from_gallery">Fotografie z galerie</string>
+    <string name="title_list_of_trans">Překlady</string>
+    <string name="translation_image">Překlad fotografie</string>
+    <string name="to">Do</string>
+    <string name="save">Uložit</string>
+    <string name="edit_pin_info_button">Editovat informace PINu</string>
+    <string name="title_edit_trans">Editovat překlad</string>
+    <string name="title_edit_pin_info">Editovat informace PINu</string>
+    <string name="title_settings">Nastavení</string>
+
+    <string name="version_text">Build Version Number of Transaction Manager</string>
+    <string name="version_name">Version Name: </string>
+    <string name="version_code">Version Code: </string>
+    <string name="hint_language">Jazyk aplikace</string>
+
+    <string name="permission_icon">Permission icon</string>
+    <string name="permissions_location">Povolení na zjištění lokace</string>
+    <string name="permissions_location_message">TlumočMi vyžaduje povolení k přístupu k lokaci.</string>
+    <string name="permissions_camera">Povolení přístupu ke kameře</string>
+    <string name="permissions_camera_message">TlumočMi vyžaduje povolení k přístupu ke kameře.</string>
+    <string name="button_edit_translation">Editovat překlad</string>
+    <string name="map_visibility">Viditelnost na mapě</string>
+    <string name="hint_not_visible">Skrýt</string>
+    <string name="cannot_be_empty">Musí být vyplněno</string>
+
+    <string name="failed_to_load_the_list">Nezdařilo se načíst seznam</string>
+    <string name="no_internet_connection">Internet není k dispozici</string>
+    <string name="unknown_error">Neznámá chyba</string>
+    <string name="translate_failed">Chyba překladu</string>
+    <string name="language_options_fail">Chyba při získávání jazyků k překladu</string>
+    <string name="language_detection_fail">Chyba při detekování jazyka</string>
+    <string name="invalid_app_language">Tento jazyk není validní!</string>
+    <string name="not_available_translation_language">Tento jazyk není k dispozici</string>
+    <string name="loading_available_languages_failed">Chyba při načítání jazyků k překladu</string>
+    <string name="welcome_to">Vítejte v</string>
+    <string name="intro_text_1">Cítíte se ztracen v cizině? Popřekládejte si cestu k poznání!</string>
+
+    <string name="intro_text_2">Uložte si své překlady v seznamu nebo v mapě!</string>
+
+    <string name="continue_to_app">Pokračovat</string>
+    <string name="trans_savable">Seznam a mapa překladů</string>
+    <string name="title_activity_app_intro">Vítejte</string>
+    <string name="hint_selected_category">"Vybraná kategorie: "</string>
+    <string name="category_filter_selected">Vybraná kategorie: </string>
+    <string name="translated_language_selected">Jazyk překladu</string>
+    <string name="app_language_selected">Jazyk aplikace</string>
+    <string name="category">Kategorie</string>
+    <string name="trans_not_found">Překlad nenalezen</string>
+    <string name="loading">Načítání</string>
+    <string name="translation_does_not_exist">Překlad neexistuje</string>
+    <string name="error_loading_data">Chyba při načítání z databáze</string>
+
+
+</resources>
